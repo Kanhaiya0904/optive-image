@@ -52,7 +52,7 @@ IMAGE-ANONYMIZER/
 ├── .env.example          # Environment variables template
 └── README.md
 
-##Identify and mark tokens containing:
+## Identify and mark tokens containing:
 - Personal names
 - Email addresses
 - Phone numbers
@@ -63,7 +63,7 @@ IMAGE-ANONYMIZER/
 kernel_size = max(5, min(w, h) // 10)  # Adjust divisor for more/less blur
 
 
-##🛠️ Technologies Used
+## 🛠️ Technologies Used
 OCR: EasyOCR
 AI: Google Gemini 1.5 Flash
 NER: Presidio Analyzer + spaCy
@@ -72,20 +72,20 @@ API: FastAPI, Uvicorn
 Environment: python-dotenv
 
 
-##📊 Performance Notes
+## 📊 Performance Notes
 OCR accuracy depends on image quality
 Processing time scales with image size and text density
 Gemini API calls may add latency (typically 1-3 seconds per image)
 spaCy's small model prioritizes speed; upgrade to en_core_web_lg for better accuracy
 
-##🔒 Security & Privacy
+## 🔒 Security & Privacy
 API keys are protected via 
 .gitignore
 Output directories are excluded from version control
 All processing happens locally (except Gemini API calls)
 No data is stored or logged permanently
 
-##🚧 Future Improvements
+## 🚧 Future Improvements
  Add page/region-level de-duplication
  Persist debug overlays for QA
  CLI switches for toggling features
@@ -93,4 +93,5 @@ No data is stored or logged permanently
  Batch API endpoint
  Docker containerization
  GPU acceleration for OCR
+
 
