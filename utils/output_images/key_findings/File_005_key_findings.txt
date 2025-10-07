@@ -1,0 +1,9 @@
+KEY FINDINGS
+==================================================
+
+• Names mentioned: Services Untrusted, Internal Services, Remote Office and others
+
+• Main content summary:
+  1. INTERNET DMZ TRUSTED PRIVILEGED Remote Employee] Internal Services VPN G-teway Remote Office Mobile Devices Mainframe Application Services Untrusted C...
+
+• Frequently mentioned terms: remote, services, internet, trusted, privileged

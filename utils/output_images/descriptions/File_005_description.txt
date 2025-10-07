@@ -1,0 +1,10 @@
+IMAGE DESCRIPTION
+==================================================
+
+Document Type: Form/Application
+
+
+Document Length: Approximately 20 words
+
+Extracted Content:
+INTERNET DMZ TRUSTED PRIVILEGED Remote Employee] Internal Services VPN G-teway Remote Office Mobile Devices Mainframe Application Services Untrusted Client LB

@@ -1,0 +1,9 @@
+KEY FINDINGS
+==================================================
+
+• Names mentioned: Troubleshooting Support, Conditional Access, Policies Azure and others
+
+• Main content summary:
+  1. All services Conditional Access Policies Azure Active Directory New policy What If Refresh Got feedback? Policies Name Insights and reporting Diagnose...
+
+• Frequently mentioned terms: policies, require, azure, policy, preview
