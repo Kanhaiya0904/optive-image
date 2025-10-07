@@ -1,0 +1,13 @@
+IMAGE DESCRIPTION
+==================================================
+
+Document Type: Unknown Document
+
+Information Categories Detected:
+  • Physical addresses
+  • Personal names
+
+Document Length: Approximately 12 words
+
+Extracted Content:
+GroupName" "Test-Group "PolicyDocument" "Statement Action" 53:Get*" 53:List*" Resource "Effect" Allow "PolicyName 53-ReadOnly-Policy"

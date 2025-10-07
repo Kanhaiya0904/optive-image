@@ -1,0 +1,12 @@
+IMAGE DESCRIPTION
+==================================================
+
+Document Type: Contract/Agreement
+
+Information Categories Detected:
+  • Personal names
+
+Document Length: Approximately 63 words
+
+Extracted Content:
+All services Conditional Access Policies Azure Active Directory New policy What If Refresh Got feedback? Policies Name Insights and reporting Diagnose and solve problems Require MFA for admins Block legacy authentication Manage Require MFA for Azure management Named locations Require MFA for all users Custom controls (Preview) Terms of use VPN connectivity Classic policies Troubleshooting Support Virtual assistant (Preview) New support request Policy

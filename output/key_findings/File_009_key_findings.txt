@@ -1,0 +1,9 @@
+KEY FINDINGS
+==================================================
+
+• Names mentioned: Statement Action
+
+• Main content summary:
+  1. GroupName" "Test-Group "PolicyDocument" "Statement Action" 53:Get*" 53:List*" Resource "Effect" Allow "PolicyName 53-ReadOnly-Policy"
+
+• Frequently mentioned terms: groupname, test, group, policydocument, statement

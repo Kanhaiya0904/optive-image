@@ -1,0 +1,14 @@
+KEY FINDINGS
+==================================================
+
+• Phone numbers detected: 2 found
+• Dates mentioned: 23-45-6789
+• Names mentioned: John Smith, First National, Social Security and others
+• Physical addresses detected: 1 found
+
+• Main content summary:
+  1. John Smith, a 32-year-old software engineer living at 1234 Elm Street, Springfield; IL, was recently diagnosed with Type 2 Diabetes
+  2. His medical records are stored under Patient ID: 45892 at Springfield General Hospital
+  3. John's primary email is john smith@example com 7, and his phone number is +1-555- 234-7890
+
+• Frequently mentioned terms: john, number, smith, springfield, bank

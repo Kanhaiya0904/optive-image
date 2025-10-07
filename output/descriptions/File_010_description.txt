@@ -1,0 +1,13 @@
+IMAGE DESCRIPTION
+==================================================
+
+Document Type: Unknown Document
+
+Information Categories Detected:
+  • Financial amounts
+  • Personal names
+
+Document Length: Approximately 90 words
+
+Extracted Content:
+Rule name Direction Priority Source ranges Action Protocols and ports Description default- ingress 65534 10.128.0.0/9 allow tcp:0-65535 Permits incoming allow- udp:0-65535 connections to VM internal icmp instances from other instances within the same VPC network. default- ingress 65534 0.0.0.0/0 allow 22 Lets you connect to allow-ssh instances with tools such as ssh; scp, or sftp. default- ingress 65534 0.0.0.0/0 allow :3389 Lets you connect to allow-rdp instances the Microsoft Remote Desktop Protocol (RDP) default- ingress 65534 0.0.0.0/0 allow icmp Lets you use tools such allow-icmp as ping: tcp: tcp: using

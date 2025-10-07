@@ -1,0 +1,15 @@
+IMAGE DESCRIPTION
+==================================================
+
+Document Type: Identification Document
+
+Information Categories Detected:
+  • Phone numbers
+  • Physical addresses
+  • Dates
+  • Personal names
+
+Document Length: Approximately 40 words
+
+Extracted Content:
+aws iam create-role -role-name Test-Role assume role-policy-document file:/ [Test-Role-Trust-Policy.json ~max-session-duration 7200 Jutput: Role" Path" RoleName "Test- Role" Roleld" AKIAIOSFODNNZEXAMPLE Arn" arn:aws iam: : 12345678012:rolefTest-Role"_ CreateDate 2023-05-24123:50:25+00:00" AssumeRolePolicyDocument" Version" 2012-10-17 "Statement "Sid" "Statementl "Effect" Allow' "Principal" ANS" arn:aws iam::12345678012:root "Action" sts:AssumeRole

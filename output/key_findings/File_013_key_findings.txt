@@ -1,0 +1,11 @@
+KEY FINDINGS
+==================================================
+
+• Phone numbers detected: 4 found
+• Dates mentioned: 23-05-2412, 12-10-17
+
+• Main content summary:
+  1. aws iam create-role -role-name Test-Role assume role-policy-document file:/ [Test-Role-Trust-Policy
+  2. json ~max-session-duration 7200 Jutput: Role" Path" RoleName "Test- Role" Roleld" AKIAIOSFODNNZEXAMPLE Arn" arn:aws iam: : 12345678012:rolefTest-Role"...
+
+• Frequently mentioned terms: role, test, policy, create, name
